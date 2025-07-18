@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## The ANAIS Experiment
 
-ANAIS (Annual modulation with NaI Scintillators) is a dark matter direct detection experiment located at the Canfranc Underground Laboratory (LSC), in Spain, operated by a team of researchers of the CAPA at the University of Zaragoza. ANAIS' goal is to confirm or refute in a model independent way the DAMA/LIBRA experiment positive result: an annual modulation in the low-energy detection rate having all the features expected for the signal induced by weakly interacting dark matter particles (WIMPs) in a standard galactic halo.
+ANAIS (Annual modulation with NaI Scintillators) is a dark matter direct detection experiment located at the Canfranc Underground Laboratory (LSC), in Spain, operated by a team of researchers of the CAPA at the University of Zaragoza. 
+ANAIS' goal is to confirm or refute in a model independent way the DAMA/LIBRA experiment positive result: an annual modulation in the low-energy detection rate having all the features expected for the signal induced by weakly interacting dark matter particles (WIMPs) in a standard galactic halo.
 
-<img width="100" height="50" alt="ANAIS_log_new" src="https://github.com/user-attachments/assets/553b25d8-b1ba-4e6b-80b2-94535ad9b811" />
+<img width="200" height="150" alt="ANAIS_log_new" src="https://github.com/user-attachments/assets/553b25d8-b1ba-4e6b-80b2-94535ad9b811" />
